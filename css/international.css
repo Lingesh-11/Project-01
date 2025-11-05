@@ -1,0 +1,42 @@
+h2{
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',;
+}
+a{
+    text-decoration: none;
+    font-size: medium;
+    font-family: 'Times New Roman', sans ;   
+    font-weight: bolder;
+    color: beige;
+    padding: 10px;
+}
+.nv1{
+    font-weight: 600;
+    font-size: 35px;
+    color: beige;  
+}
+.nv{
+    background-color: rgb(22, 22, 155);
+    display: flex;align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;padding-right:20px;
+}
+li{
+    list-style: none;
+    display: inline-block;  
+}
+#ww{
+    padding-top: 30px;
+    width: 45%;
+    height: 40%;
+   
+}
+#yy{
+    text-align: center;
+    padding-top: 160px;
+}
+.ty{
+    text-align: center;
+    background-color: darkslategrey;
+    color: beige;
+}

@@ -1,0 +1,86 @@
+
+h2{
+    font-style: oblique;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',;
+}
+a{
+    text-decoration: none;
+    font-size: medium;
+    font-family: 'Times New Roman', sans ;   
+    font-weight: bolder;
+    color: beige;
+    padding: 10px;
+}
+.nv1{
+    font-weight: 600;
+    font-size: 35px;
+    color: beige;
+    
+}
+.nv{
+    background-color: rgb(22, 22, 155);
+    display: flex;align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;padding-right:20px;
+}
+
+li{
+    list-style: none;
+    display: inline-block;  
+}
+.t1{
+    border-radius: 5px;
+    background-color: whitesmoke;
+    margin-left: 40%;margin-top: 6%;  
+    width: 20%;
+    padding: 20px;
+    border-color: rgb(238, 174, 12);
+} 
+th{
+    color: red;
+    background-color: whitesmoke; 
+}
+body{
+    background-image: url(../images/wp.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#rr{
+    background-color: rgb(219, 69, 69);
+    transition-duration: 0.8s;
+    box-sizing: border-box;
+    box-shadow: tomato;
+}
+.same0{
+    width: 90%;
+    height: 10%;
+    background-color: inherit;
+    
+}
+.last{
+    display: flex;
+    flex-direction: column;
+    margin-top: 28%;
+    background-color: navy;color: bisque;
+    justify-content: space-between;
+}
+.t2{
+    padding: 10px;
+    align-content: flex-end;
+    width: 20%;
+    
+}
+.foot{
+    align-content: start;
+    display: inline-block;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 10px 20px;
+}
+#er{
+    width: 20%
+}
+.one{
+    float: right;
+}
